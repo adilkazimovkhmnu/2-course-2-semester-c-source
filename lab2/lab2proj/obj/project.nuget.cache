@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPFjlg1rcpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adiru\\Desktop\\Pirch\\lab2\\lab2proj\\lab2proj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adiru\\.nuget\\packages\\system.codedom\\9.0.5\\system.codedom.9.0.5.nupkg.sha512",
+    "C:\\Users\\Adiru\\.nuget\\packages\\system.management\\9.0.5\\system.management.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
