@@ -1,0 +1,14 @@
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.AssemblyInfoInputs.cache
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.AssemblyInfo.cs
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\bin\Debug\net9.0\lab3.exe
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\bin\Debug\net9.0\lab3.deps.json
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\bin\Debug\net9.0\lab3.runtimeconfig.json
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\bin\Debug\net9.0\lab3.dll
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\bin\Debug\net9.0\lab3.pdb
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.dll
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\refint\lab3.dll
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.pdb
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\lab3.genruntimeconfig.cache
+C:\Users\Adiru\Desktop\labc#\lab3\lab3\obj\Debug\net9.0\ref\lab3.dll
